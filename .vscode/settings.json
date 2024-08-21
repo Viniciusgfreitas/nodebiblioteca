@@ -1,0 +1,13 @@
+{
+    "editor.cursorStyle": "line",
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "off",
+    "editor.tabCompletion": "off",
+    "html.completion.attributeDefaultValue": "doublequotes",
+    "diffEditor.codeLens": false,
+    "diffEditor.diffAlgorithm": "advanced",
+    "diffEditor.wordWrap": "inherit",
+    "editor.minimap.side": "right",
+    "files.autoGuessEncoding": false,
+    "files.trimTrailingWhitespace": false
+}
